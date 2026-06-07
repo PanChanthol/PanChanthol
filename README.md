@@ -44,7 +44,7 @@ I'm an Android Developer passionate about building modern, scalable, and user-fr
 
 ### Database
 
-*Oracle Database
+* Oracle Database
 * Room
 * PostgreSQL
 * MySQL
